@@ -1,2 +1,2 @@
 # Uneeq-Intern
-that is erpo for some tasks
+that is repo for some tasks
